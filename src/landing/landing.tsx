@@ -1,7 +1,6 @@
 // src/LandingPage.tsx
 
 import React from 'react';
-import './landing.css';
 import Header from '../header/header.tsx';
 
 const LandingPage: React.FC = () => {

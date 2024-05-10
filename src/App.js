@@ -1,12 +1,11 @@
-import logo from './logo.svg';
 import './App.css';
-import LandingPage from './landing/landing.tsx';
+import NavBar from './components/navbar.tsx';
 
 function App() {
   return (
-    <div className="App">
-      <LandingPage/>
-    </div>
+    <>
+      <NavBar/>
+    </>
   );
 }
 
